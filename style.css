@@ -83,11 +83,6 @@ strong{
         background-attachment: fixed;
     }
     button{
-        width: 200px;
-        color:rgb(240, 229, 236);
-        background-color:rgb(70, 9, 49);
-        padding: 10px;
-        border-style: none;
-        border-radius: 20px;
+        width: 700px;
     }
 }
