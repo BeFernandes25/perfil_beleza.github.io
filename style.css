@@ -76,13 +76,4 @@ strong{
     padding: 20px 0;
 }
 
-@media only screen and (max-width: 800px) {
-    .inicio{
-        background-image: url("mulher.jpg");
-        background-size: 200%;
-        background-attachment: fixed;
-    }
-    button{
-        width: 300px;
-    }
-}
+
